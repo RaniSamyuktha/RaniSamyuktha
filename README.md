@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science and Engineering projects<br>👯 I’m looking to collaborate on new GenAI projects<br>🌱 I’m currently learning Generative AI<br>💬 Ask me about Data Engineering Optimization Techniques<br>
+🔭 I'm a Data Scientist with 7 years of hands-on experience in Data Analytics, Machine Learning, and Data Engineering. My expertise is turning complex datasets into actionable insights and building robust machine-learning models to solve real-world business problems.
 
+Throughout my career, I’ve worked across diverse industries including finance, healthcare, and e-commerce, leveraging data to drive decision-making, optimize operations, and improve customer experiences. I’m passionate about exploring new technologies, developing innovative data-driven solutions, and staying ahead in the fast-evolving world of data science.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rani-samyuktha/) 
